@@ -1,5 +1,8 @@
 # Portfolio App Web
 
+This is a simple Web Single Page Application create with Angular 9 and consume some services to retrieve information from database and Twitter API.
+
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.0.5.
 
 ## Development local server
